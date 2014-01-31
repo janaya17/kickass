@@ -1,7 +1,4 @@
-Kickass Industries
-=======
-
-Kicking Asses Since 1879
+Build out the site so it looks like the following image:
 
 
 <img src="normal.png">
